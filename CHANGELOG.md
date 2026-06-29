@@ -1,3 +1,23 @@
+<!--
+Next release template. Before publishing 0.1.1:
+  1. Fill in the bullets below (delete any subsection you don't use).
+  2. Bump `version: 0.1.1` in pubspec.yaml to match this header.
+  3. Commit, then tag `v0.1.1` and push the tag to publish.
+-->
+## 0.1.1
+
+### Added
+
+- _New features go here._
+
+### Changed
+
+- _Behavior changes / improvements go here._
+
+### Fixed
+
+- _Bug fixes go here._
+
 ## 0.1.0
 
 - Initial release.
