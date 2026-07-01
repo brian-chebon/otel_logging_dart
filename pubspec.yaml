@@ -2,7 +2,7 @@ name: otel_logging_dart
 description: >-
   Send Dart and Flutter application logs to an OpenTelemetry collector over the
   OTLP/HTTP protocol, with package:logging integration and trace correlation.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/brian-chebon/otel_logging_dart
 issue_tracker: https://github.com/brian-chebon/otel_logging_dart/issues
 
