@@ -1,6 +1,9 @@
 # OpenTelemetry Logging for Dart
 
 [![pub package](https://img.shields.io/pub/v/otel_logging_dart.svg)](https://pub.dev/packages/otel_logging_dart)
+[![pub downloads](https://img.shields.io/pub/dm/otel_logging_dart.svg)](https://pub.dev/packages/otel_logging_dart)
+[![pub points](https://img.shields.io/pub/points/otel_logging_dart.svg)](https://pub.dev/packages/otel_logging_dart/score)
+[![likes](https://img.shields.io/pub/likes/otel_logging_dart.svg)](https://pub.dev/packages/otel_logging_dart/score)
 [![CI](https://github.com/brian-chebon/otel_logging_dart/actions/workflows/ci.yml/badge.svg)](https://github.com/brian-chebon/otel_logging_dart/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
