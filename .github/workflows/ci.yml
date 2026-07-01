@@ -13,7 +13,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        sdk: [stable, "3.5"]
+        sdk: [stable, "3.8"]
 
     steps:
       - name: Checkout
